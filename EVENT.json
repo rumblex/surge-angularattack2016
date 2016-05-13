@@ -4,6 +4,6 @@
   "end"         : "2016-05-15T23:59",
   "twitter"     : "@angularattack",
   "email"       : "help@angularattack.com",
-  "slackhook"   : "https://hooks.slack.com/services/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",
-  "webhook"     : "https://www.rumblex.com/deploys/surge",
+  "slackhook"   : "https://hooks.slack.com/services/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",
+  "webhook"     : "https://www.rumblex.com/deploys/surge"
 }
